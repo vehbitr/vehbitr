@@ -1,5 +1,5 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4E16AQEG-J5hDEEjwA/profile-displaybackgroundimage-shrink_350_1400/0/1689344323172?e=1698278400&v=beta&t=hpAYZ_xpAnth1-VuycMQc1ZyOwK5v20Xv43yG-FDHY8)
-<h1 align="center">Hi 👋, I'm Vehbi</h1>
+<h1 align="center">Hi 👋, I'm Vehbi Demirezen </h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Javascript,React**
