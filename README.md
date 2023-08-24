@@ -24,4 +24,4 @@
 
 
 
-![snake gif](https://github.com/VehbiDemirezen/VehbiDemirezen/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/vehbitr/vehbitr/blob/output/github-contribution-grid-snake.gif)
