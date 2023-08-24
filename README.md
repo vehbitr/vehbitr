@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQEG-J5hDEEjwA/profile-displaybackgroundimage-shrink_350_1400/0/1689344323172?e=1698278400&v=beta&t=hpAYZ_xpAnth1-VuycMQc1ZyOwK5v20Xv43yG-FDHY8)
+[![MasterHead](https://static.platzi.com/media/user_upload/Java-banner-002-e1572444968364-63c18ac3-1c98-4d95-92d5-24148243bfe9.jpg)
 <h1 align="center">Hi 👋, I'm Vehbi Demirezen </h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
